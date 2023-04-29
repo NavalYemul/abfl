@@ -95,4 +95,8 @@ df1.createOrReplaceGlobalTempView("jsonglobaltempview")
 
 # COMMAND ----------
 
+display(df1)
+
+# COMMAND ----------
+
 
