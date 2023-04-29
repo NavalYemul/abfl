@@ -99,4 +99,8 @@ display(df1)
 
 # COMMAND ----------
 
+df1=df.drop("emp_id")
+
+# COMMAND ----------
+
 
